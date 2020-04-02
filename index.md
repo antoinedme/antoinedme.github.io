@@ -43,5 +43,10 @@ Decision Tree:
 
 ![Decision Tree](https://raw.githubusercontent.com/antoinedme/titanic-dataset-ml/master/img/decision-tree-illustration.png)
 
+Visit the Project for more fun:
+
+
+[My Notebook:](https://github.com/antoinedme/titanic-dataset-ml) https://github.com/antoinedme/titanic-dataset-ml
+
 Thank's
 
