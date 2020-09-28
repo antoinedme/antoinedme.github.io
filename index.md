@@ -14,14 +14,47 @@ Find some of my repositories:
 - About my work in Singapore: https://github.com/antoinedme/experience-iot
 - About Machine Learning workshop: https://github.com/antoinedme/titanic-dataset-ml
 
+## How to deploy ICT projects in Singapore
+
+Direct link to the poster: https://github.com/antoinedme/experience-iot/blob/master/README.md#poster-singapore-use-case
+
+
+![Opening Antoine de Marasse](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/01-title.png) 
+
+Workshop's contents:
+
+1. [How do we keep our elders safe and well within the community?](https://github.com/antoinedme/experience-iot/blob/master/README.md#how-do-we-keep-our-elders-safe-and-well-within-the-community)
+2. [Smart Living Framework](https://github.com/antoinedme/experience-iot/blob/master/README.md#smart-living-framework)
+    1. [Ubiquitous Service MAnagement and Reasoning archiTecture](https://github.com/antoinedme/experience-iot/blob/master/README.md#ubiquitous-service-management-and-reasoning-architecture)
+    2. [Ontology and Semantic Web](https://github.com/antoinedme/experience-iot/blob/master/README.md#ontology-and-semantic-web)
+3. [Platform, services and Internet-of-Things](https://github.com/antoinedme/experience-iot/blob/master/README.md#platform-services-and-internet-of-things)
+    1. [Creating pilot dashboard for health](https://github.com/antoinedme/experience-iot/blob/master/README.md#creating-pilot-dashboard-for-health)
+    2. [Integrating Risk models](https://github.com/antoinedme/experience-iot/blob/master/README.md#integrating-risk-models)    
+    3. [Data Plot and visualisations](https://github.com/antoinedme/experience-iot/blob/master/README.md#data-plot-and-visualisations)    
+4. [Poster: Singapore use-case](https://github.com/antoinedme/experience-iot/blob/master/README.md#poster-singapore-use-case)
+
+## How to learn Machine Learning in a fun way
 
 Recently, I've started to study **Machine Learning** using Sci-kit Learn.
 
 On of my latest fun work is applying Logistic Regression and Decision Tree on the RMS Titanic Dataset.
 
-![Opening Image](https://raw.githubusercontent.com/antoinedme/titanic-dataset-ml/master/ressources/img/opening-image.png)
+Contents:
+1. [History of the RMS Titanic passenger liner](https://github.com/antoinedme/titanic-dataset-ml#history-of-the-rms-titanic-passenger-liner)
+2. [Exploring the Passengers dataset entries](https://github.com/antoinedme/titanic-dataset-ml#exploring-the-passengers-dataset-entries)
+    1. [Analysing the data](https://github.com/antoinedme/titanic-dataset-ml#analysing-the-data) (more having a look and trying to analyse correlation of parameters and to plot simple stuffs)
+    2. [Cleaning the data](https://github.com/antoinedme/titanic-dataset-ml#cleaning-the-data) (basic cleaning, no real process here)
+    3. [Splitting the dataset for training and testing](https://github.com/antoinedme/titanic-dataset-ml#splitting-the-dataset-for-training-and-testing)
+3. [Applying Logistic Regression](https://github.com/antoinedme/titanic-dataset-ml#applying-logistic-regression)
+    1. [Evaluating the model](https://github.com/antoinedme/titanic-dataset-ml#evaluating-the-model)
+    2. [What about Jack and Rose?](https://github.com/antoinedme/titanic-dataset-ml#what-about-jack-and-rose)
+4. [Applying Decision Tree](https://github.com/antoinedme/titanic-dataset-ml#applying-decision-tree)
+5. [Final remarks](https://github.com/antoinedme/titanic-dataset-ml#final-remarks) (wait, there's a surprise here!)
 
-[Link to the Titanic Machine Learning Notebook](https://github.com/antoinedme/titanic-dataset-ml).
+Directly access all the code on the Jupyter Notebook (Python): 
+
+https://github.com/antoinedme/titanic-dataset-ml/blob/master/Titanic-MachineLearning.ipynb
+
 
 ## ML models and Python packages
 
