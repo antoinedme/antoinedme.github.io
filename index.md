@@ -18,7 +18,6 @@ Find some of my repositories:
 
 Direct link to the poster: https://github.com/antoinedme/experience-iot/blob/master/README.md#poster-singapore-use-case
 
-
 ![Opening Antoine de Marasse](https://raw.githubusercontent.com/antoinedme/experience-iot/master/img/01-title.png) 
 
 Workshop's contents:
@@ -36,8 +35,9 @@ Workshop's contents:
 ## How to learn Machine Learning in a fun way
 
 Recently, I've started to study **Machine Learning** using Sci-kit Learn.
-
 On of my latest fun work is applying Logistic Regression and Decision Tree on the RMS Titanic Dataset.
+
+![Opening Antoine de Marasse](https://raw.githubusercontent.com/antoinedme/titanic-dataset-ml/master/ressources/img/opening-image.png) 
 
 Contents:
 1. [History of the RMS Titanic passenger liner](https://github.com/antoinedme/titanic-dataset-ml#history-of-the-rms-titanic-passenger-liner)
