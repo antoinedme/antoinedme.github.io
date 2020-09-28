@@ -2,11 +2,24 @@
 layout: default
 ---
 
+## Hello there, I'm Antoine!
+
+I like **technology and collaborative projects**, I worked within two Horizon 2020 projects, EU Framework Programme for Research and Innovation. The overall objective is to create an innovative framework on ICT tools and services that can be deployed in cities to improve the health of the population in the urban context. 
+
+
+**Embedded Systems Engineer**, I received a master's degree from ECE Paris and had the opportunity to share my time between Europe and Asia. I specialized in Internet-of-Things, playing around with electronics components and controllers.
+
+Find some of my repositories:
+
+- About my work in Singapore: https://github.com/antoinedme/experience-iot
+- About Machine Learning workshop: https://github.com/antoinedme/titanic-dataset-ml
+
+
 Recently, I've started to study **Machine Learning** using Sci-kit Learn.
 
 On of my latest fun work is applying Logistic Regression and Decision Tree on the RMS Titanic Dataset.
 
-![Opening Image](https://raw.githubusercontent.com/antoinedme/titanic-dataset-ml/master/img/opening-image.png)
+![Opening Image](https://raw.githubusercontent.com/antoinedme/titanic-dataset-ml/master/ressources/img/opening-image.png)
 
 [Link to the Titanic Machine Learning Notebook](https://github.com/antoinedme/titanic-dataset-ml).
 
@@ -26,7 +39,7 @@ from sklearn.metrics import classification_report, confusion_matrix, accuracy_sc
 ```
 Illustration of my Logistics Regression model:
 
-![Logistics Regression](https://raw.githubusercontent.com/antoinedme/titanic-dataset-ml/master/img/regression-illus.png)
+![Logistics Regression](https://raw.githubusercontent.com/antoinedme/titanic-dataset-ml/master/ressources/img/regression-illus.png)
 
 Decision Trees (DTs) are a non-parametric supervised learning method used for classification and regression. The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features.
 
@@ -36,17 +49,14 @@ from sklearn import tree
 
 Illustration of my output Decision Tree:
 
-![Decision Tree](https://raw.githubusercontent.com/antoinedme/titanic-dataset-ml/master/img/decision-tree-illustration.png)
+![Decision Tree](https://raw.githubusercontent.com/antoinedme/titanic-dataset-ml/master/ressources/img/decision-tree-illustration.png)
 
 
 ## And the results are...
 
 Let's create the data for our lovely couple (we will follow the structure: class, age, parents on board, fare, sex): Jack is on third class, around 27 years old, alone on board, only paid 8$ and is a male `jack = [3, 27, 0, 8, 1]`, and rose is on first class, around 22 years old, with family and paid 60$ `rose = [1, 22, 1, 60, 0]`.
 
-![Results](https://raw.githubusercontent.com/antoinedme/titanic-dataset-ml/master/img/results.png)
-
-
-
+![Results](https://raw.githubusercontent.com/antoinedme/titanic-dataset-ml/master/ressources/img/results.png)
 
 Visit the Project for more fun:
 
