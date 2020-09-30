@@ -1,6 +1,4 @@
-# antoinedme.github.io
-
-Website under construction.
+> Website under construction.
 
 Follow me on Linkedin:
 https://www.linkedin.com/in/hiantoine/
