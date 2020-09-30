@@ -1,9 +1,9 @@
 # antoinedme.github.io
 
 Website under construction.
+
 Follow me on Linkedin:
 https://www.linkedin.com/in/hiantoine/
-https://antoinedme.github.io/
 
 I like **technology and collaborative projects**, I worked within two Horizon 2020 projects, EU Framework Programme for Research and Innovation. The overall objective is to create an innovative framework on ICT tools and services that can be deployed in cities to improve the health of the population in the urban context. 
 
@@ -100,8 +100,5 @@ Visit the Project for more fun:
 
 
 [My Notebook:](https://github.com/antoinedme/titanic-dataset-ml) https://github.com/antoinedme/titanic-dataset-ml
-
-Thank you!
-Antoine
 
 
